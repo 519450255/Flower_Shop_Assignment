@@ -10,7 +10,7 @@
     border: 0;
     margin-top: 20px;
     font-size: 15px;
-    font-weight: 700;
+    font-weight: 400;
     color: #ffffff;
     padding: 13px 32px;
 }
@@ -70,8 +70,8 @@
 /* *******instagram_section section css start******* */
 
 .instagram_section{
-    margin-top: 40PX;
-    padding: 30px 150px 0px 150px;
+    margin-top: 30PX;
+    padding: 30px 150px 30px 150px;
 }
 .instagram_section_text{
     text-align: center;
@@ -96,3 +96,80 @@
 }
 
 /* *******instagram_section section css end******* */
+
+/* *******get_deal_section section css start******* */
+
+.get_deal_section{
+    border-radius: 5px;
+    margin: 40px 100px 60px 100px;
+    padding: 60px 60px 60px 60px;
+    background-image: url('../image/Rectangle\ 9.png');
+    background-repeat: no-repeat;
+}
+
+.get_deal_section_text {
+    text-align: center;
+}
+.get_deal_section_text h1{
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+.get_deal_section_text p{
+    margin-top: 5px;
+    font-size: 18px;
+    color: #8b8686;
+}
+.get_deal_section_form{
+    text-align: center;
+}
+.get_deal_section_form button{
+    margin-left: 10px;
+}
+
+input{
+    border: none;
+    border-radius: 5px;
+    background: #ffffff;
+    font-size: 13px;
+    color: #ffffff;
+    padding: 13px 32px;
+    width: 350px;
+}
+/* *******get_deal_section section css end******* */
+
+/* *******footer_section section css start******* */
+.footer_section{
+    background: #111010;
+    text-align: center;
+    margin: 40px 100px 0px 100px;
+    padding: 60px 60px 60px 60px;
+}
+.footer_section h1{
+    color: #ffffff;
+}
+.footer_section span{
+    color: #E55473;
+}
+
+.footer_section h5{
+    font-size: 15px;
+    font-weight: 400;
+    margin-top: 10px;
+    color:#ffffffc1;
+}
+.footer_section p{
+    margin-top: 15px;
+    font-size: 10px;
+    color: #8b8686; 
+}
+/* *******footer_section section css end******* */
+
+
+
+
+
+
+
+
+/* *******footer_section section css end******* */
+

@@ -37,7 +37,7 @@
 }
 /* *******banner section css end******* */
 
-
+/* *******hot-deal_section section css start******* */
 .hot-deal_section{
     margin-top: 20PX;
     display: flex;
@@ -65,4 +65,34 @@
     font-size: 18px;
     color: #8b8686;
 }
+/* *******hot-deal_section section css end******* */
 
+/* *******instagram_section section css start******* */
+
+.instagram_section{
+    margin-top: 40PX;
+    padding: 30px 150px 0px 150px;
+}
+.instagram_section_text{
+    text-align: center;
+} 
+.instagram_section_text h1{
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+.instagram_section_text p{
+    margin-top: 5px;
+    font-size: 18px;
+    color: #8b8686;
+}
+.instagram_section_pic{
+    text-align: center;
+    justify-content: space-between;
+}
+.instagram_section_pic img{
+    margin-top: 30px;
+    margin-right: 10px;
+    width: 230px;
+}
+
+/* *******instagram_section section css end******* */

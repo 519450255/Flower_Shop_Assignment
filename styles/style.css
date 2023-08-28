@@ -1,0 +1,35 @@
+/* *******common css start******* */
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+.primary_btn{
+    border-radius: 5px;
+    background: #E55473;
+    border: 0;
+    margin-top: 20px;
+    font-size: 15px;
+    font-weight: 700;
+    color: #ffffff;
+    padding: 13px 32px;
+}
+/* *******common css end******* */
+.banner_section{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 150px 0px 150px;
+    background: #e5547334;
+}
+.banner_text h1{
+    font-size: 40px;
+    /* line-height: 38px; */
+}
+.banner_text p{
+    margin-top: 5px;
+    font-size: 20px;
+    color: #8b8686;
+}
+.banner_pic  img{
+    width: 300px;
+}

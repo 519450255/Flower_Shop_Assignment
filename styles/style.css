@@ -15,6 +15,8 @@
     padding: 13px 32px;
 }
 /* *******common css end******* */
+
+/* *******banner section css start******* */
 .banner_section{
     display: flex;
     justify-content: space-between;
@@ -27,9 +29,40 @@
 }
 .banner_text p{
     margin-top: 5px;
-    font-size: 20px;
+    font-size: 18px;
     color: #8b8686;
 }
 .banner_pic  img{
     width: 300px;
 }
+/* *******banner section css end******* */
+
+
+.hot-deal_section{
+    margin-top: 20PX;
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 200px 30px 150px;
+    background: #e5547334;
+}
+.hot-deal_text{
+    text-align: center;
+    margin-top: 100px;
+}
+.hot-deal_text h1{
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+.hot-deal_text span{
+    color: #E55473;
+}
+.hot-deal_pic img{
+    width: 220px;
+    height: 320px;
+}
+.hot-deal_text p{
+    margin-top: 5px;
+    font-size: 18px;
+    color: #8b8686;
+}
+

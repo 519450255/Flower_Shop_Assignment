@@ -25,7 +25,6 @@
 }
 .banner_text h1{
     font-size: 40px;
-    /* line-height: 38px; */
 }
 .banner_text p{
     margin-top: 5px;
@@ -36,6 +35,64 @@
     width: 300px;
 }
 /* *******banner section css end******* */
+
+
+/* *******Featured_section section css start******* */
+.Featured_section{
+    margin-top: 30PX;
+    padding: 30px 150px 30px 150px;
+}
+.Featured_section_text{
+    text-align: center;
+} 
+.Featured_section_text h1{
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+.Featured_section_text p{
+    margin-top: 5px;
+    font-size: 18px;
+    color: #8b8686;
+}
+.Featured_section_pic{
+    margin-top: 30px;
+    text-align: center;
+    justify-content: space-between;
+}
+.Featured_section_pic img{
+    padding: 40px 30px 10px 30px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    width: 220px;
+}
+.Featured_section_pic .img1{
+    width: 220px;
+    height: 280px;
+    background-color: #e5547338;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%; 
+}
+.Featured_section_pic .img2{
+    width: 220px;
+    height: 280px;
+    background-color: #0598a033;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+}
+.Featured_section_pic .img3{
+    width: 220px;
+    height: 280px;
+    background-color: #477d1135;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+}
+
+.Featured_section .img_tittle a{
+    color: #464444;
+    margin-left: 170px;
+}
+/* *******Featured_section section css end******* */
 
 /* *******hot-deal_section section css start******* */
 .hot-deal_section{
@@ -93,12 +150,12 @@
     margin-top: 30px;
     margin-right: 10px;
     width: 230px;
+    border-radius: 5px;
 }
 
 /* *******instagram_section section css end******* */
 
 /* *******get_deal_section section css start******* */
-
 .get_deal_section{
     border-radius: 5px;
     margin: 40px 100px 60px 100px;
@@ -106,7 +163,6 @@
     background-image: url('../image/Rectangle\ 9.png');
     background-repeat: no-repeat;
 }
-
 .get_deal_section_text {
     text-align: center;
 }
@@ -125,7 +181,6 @@
 .get_deal_section_form button{
     margin-left: 10px;
 }
-
 input{
     border: none;
     border-radius: 5px;
@@ -140,6 +195,7 @@ input{
 /* *******footer_section section css start******* */
 .footer_section{
     background: #111010;
+    border-radius: 5px;
     text-align: center;
     margin: 40px 100px 0px 100px;
     padding: 60px 60px 60px 60px;
@@ -164,12 +220,4 @@ input{
 }
 /* *******footer_section section css end******* */
 
-
-
-
-
-
-
-
-/* *******footer_section section css end******* */
 
